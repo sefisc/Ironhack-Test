@@ -1,0 +1,1 @@
+resource "aws_instance" "sebastian_instance"
